@@ -30,10 +30,10 @@
     transform: translate(-50%, -50%);
     background-color: rgba(0, 0, 0, 1.0);
     padding: 22px;
-    border: 2px solid transparent;
+    border: 6px solid transparent;
     border-image: linear-gradient(90deg, white, rgb(158, 62, 145));
     border-image-slice: 1;
-    border-radius: 20px;
+
 }
 
 #resultado {
